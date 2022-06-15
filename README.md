@@ -6,9 +6,9 @@
 
 ### About me
 
-- 💼  BackEnd Engineer at [Venustech](https://www.venustech.com.cn/).My major in university is computer science and technology.
+- 💼  BackEnd Engineer at [Venustech](https://www.venustech.com.cn/).
+- 🚀  I love programming and challenge.
 - ❤  I am inspired to be a non static variable programmer and live a colorful life.
-- 🚀  I love programming and challenge, especially `GoLand`.
 - 💬  Ask me about anything [here](https://github.com/Xxianglei/Xxianglei/issues)! I am happy to help.
 - 📫  How to reach me: [alex4ever@foxmail.com](alex4ever@foxmail.com).
 
