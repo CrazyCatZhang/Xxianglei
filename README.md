@@ -1,22 +1,14 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-</br>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners) 
 
-### Hi there 👋 
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<h1 align="center">I'm Alex 👋</h1> <h3 align="center">A passionate golang developer from China</h3>
 
 <br>
 
 #### About me
 
 - 💼 BackEnd Engineer at [Venustech](https://www.venustech.com.cn/)
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-- 🛠  I’m currently working with TS, React&AntDesign, Java&Spring, Python&Pandas, etc.
-- 🚀  I’m currently interesting in compiler, especially `babel`.
+- 🚀  I’m currently interesting in compiler, especially `GoLand`.
 - 💬  Ask me about anything [here](https://github.com/Xxianglei/Xxianglei/issues)! I am happy to help.
 - 📫  How to reach me: [alex4ever@foxmail.com](alex4ever@foxmail.com).
 
