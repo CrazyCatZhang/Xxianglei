@@ -17,30 +17,30 @@
 #### Languages and Tools
 
 <div align="center">  
-<img style="margin: 10px" src="./images/go-original.svg" alt="Go" height="50" /> 
-<img style="margin: 10px" src="./images/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="./images/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="./images/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="./images/grafana.png" alt="Grafana" height="50" />  
-<img style="margin: 10px" src="./images/docker-original-wordmark.svg" alt="Docker" height="50" /> 
-<img style="margin: 10px" src="./images/elastic-icon.svg" alt="ES" height="50" />  
-<img style="margin: 10px" src="./images/kibana.png" alt="Kibana" height="50" />  
-<img style="margin: 10px" src="./images/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="./images/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
-<img style="margin: 10px" src="./images/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 10px" src="./images/apache_kafka-icon.svg" alt="Kafka" height="50" />  
-<img style="margin: 10px" src="./images/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
-<img style="margin: 10px" src="./images/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="./images/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="./images/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="./images/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="./images/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="./images/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="./images/apache_hive-icon.svg" alt="Hive" height="50" />  
-<img style="margin: 10px" src="./images/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="./images/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="./images/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="./images/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/go-original.svg" alt="Go" height="50" /> 
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/grafana.png" alt="Grafana" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/docker-original-wordmark.svg" alt="Docker" height="50" /> 
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/elastic-icon.svg" alt="ES" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/kibana.png" alt="Kibana" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/apache_hive-icon.svg" alt="Hive" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://github.com/Xxianglei/Xxianglei/blob/main/images/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>  
 <br>
 
