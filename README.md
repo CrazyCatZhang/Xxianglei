@@ -52,11 +52,4 @@
 
 <br>
 
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Xxianglei&&style=flat-square)  
