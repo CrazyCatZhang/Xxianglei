@@ -6,7 +6,7 @@
 
 ### About me
 
-- 💼  BackEnd Engineer at [Venustech](https://www.venustech.com.cn/).
+- 💼  BackEnd Engineer .
 - 🚀  I love programming and challenge.
 - ❤  I am inspired to be a non static variable programmer and live a colorful life.
 - 💬  Ask me about anything [here](https://github.com/Xxianglei/Xxianglei/issues)! I am happy to help.
